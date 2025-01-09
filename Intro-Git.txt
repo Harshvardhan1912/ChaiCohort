@@ -1,0 +1,3 @@
+# Introduction to Git:
+Hi, DevTechie. Welcome to ChaiCode Cohort Company as a new developer.
+Being a developer you must be familiar with Git --version control system.So, let's start our journey of learining Git.
