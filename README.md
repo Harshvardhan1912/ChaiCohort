@@ -1,4 +1,4 @@
-#INTRODUCTION TO GIT AND GITHUB:
+# INTRODUCTION TO GIT AND GITHUB:
 
 1. What is version control?
     Version control, also known as source control, is a tool for tracking and managing changes to software code. Version control systems help manage changes to source-code(Your PROJECT) over time.
