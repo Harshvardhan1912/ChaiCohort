@@ -10,11 +10,11 @@
     As a Devtechie you will work on a larger codebase. Sometimes you will work with different teams on a project or maybe by my mistake you made the code buggy or delete the important file of the codebase.
 
     So, the question arises that how do you manage all these things? 
-   Here comes the Git
---helps manage the timeline of you codebase.
---onboard different teams to work on a single project.
+   Here comes the Git into the play
+-helps manage the timeline of you codebase.
+-onboard different teams to work on a single project.
   For ex; working on a feature or working on a frontend/backend team.  
---it also revert back your mistakes. You can undo your
+-it also revert back your mistakes. You can undo your
   mistake and move to the previous checkpoint.
 So, these are few reasons why we use Git. 
 
