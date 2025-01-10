@@ -11,13 +11,15 @@
 
     So, the question arises that how do you manage all these things? 
     Here comes the Git  --helps manage the timeline of you codebase.
-                        --onboard different teams to work on a single project. 
+   
+                        --onboard different teams to work on a single project.
                           For ex; working on a feature or working on a frontend/backend team.
+   
                         --it also revert back your mistakes. You can undo your
                           mistake and move to the previous checkpoint.
 So, these are few reasons why we use Git. 
 
-3. What is GitHub then ??
+4. What is GitHub then ??
    
     GitHub is a platform where you keep your projects for showcase. It is like a box where you keep your things. 
     You share your things with others and collaborate with them.
